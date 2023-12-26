@@ -278,4 +278,4 @@ python manage.py runserver
 ## Авторы
 - [Андрей Елистратов](https://github.com/andrew12022)
 - [Кирилл Новоселов](https://github.com/Scorcer777)
-- [Владимир Шевченко](vladimir-shevchenko01)
+- [Владимир Шевченко](https://github.com/vladimir-shevchenko01)
