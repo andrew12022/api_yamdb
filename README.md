@@ -268,12 +268,10 @@ python manage.py runserver
 Документация данного проекта находится по адресу: http://127.0.0.1:8000/redoc/
 
 ## Технологии и необходимые инструменты
-- Python 3.9
-- Django 3.2
-- DRF
-- Simple JWT
-- pytest
-- sqlite3
+- Python
+- Django
+- Django REST framework
+- SQLite
 
 ## Авторы
 - [Андрей Елистратов](https://github.com/andrew12022)
